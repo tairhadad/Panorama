@@ -6,7 +6,7 @@ cv2 ,datetime ,numpy, argparse
 
 ============================================================================
 # Left
-<img src="drawing.jpg" alt="Left" style="width:50%; height:50%;"/>
+<img src="drawing.jpg" alt="Left" style="width:50%;"/>
 ![Left](https://github.com/tairhadad/Panorama/blob/master/2/left.jpg?raw=true "Left" )
 
 
