@@ -13,6 +13,7 @@ cv2 ,datetime ,numpy, argparse
 <img src="https://github.com/tairhadad/Panorama/blob/master/2/right.jpg?raw=true" width="25%" height="25%">
 
 # Output
+
 <img src="(https://github.com/tairhadad/Panorama/blob/master/2/output.jpg?raw=true" width="25%" height="25%">
 
 
