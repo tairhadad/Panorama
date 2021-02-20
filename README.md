@@ -4,7 +4,8 @@ Create a panoramic image
 Libraries nedded:
 cv2 ,datetime ,numpy, argparse
 
-=================================================================================
+=============================================================================
+
 Code explenation:
 
 to run the code please use the terminal and run the following line:
@@ -19,6 +20,6 @@ this function returned all the matches  and i was selecting only the best matche
 the next step is creating a homograpy matrix with the keypoints we found. 
 the final step is to wrap the images.
 
-=================================================================================
+============================================================================
 
 Enjoy :)
