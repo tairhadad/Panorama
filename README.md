@@ -6,14 +6,14 @@ cv2 ,datetime ,numpy, argparse
 
 ============================================================================
 # Left
-![Left](https://github.com/tairhadad/Panorama/blob/master/2/left.jpg?raw=true "Left" =250x250)
+![Left](https://github.com/tairhadad/Panorama/blob/master/2/left.jpg?raw=true&s=250)
 
 # Right
-![Right](https://github.com/tairhadad/Panorama/blob/master/2/right.jpg?raw=true "Right"){:height="50%" width="50%"}
+![Right](https://github.com/tairhadad/Panorama/blob/master/2/right.jpg?raw=true "Right")
 
 
 # Output
-![Output](https://github.com/tairhadad/Panorama/blob/master/2/output.jpg?raw=true "Output"){:height="50%" width="50%"}
+![Output](https://github.com/tairhadad/Panorama/blob/master/2/output.jpg?raw=true "Output")
 
 
 
