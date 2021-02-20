@@ -6,7 +6,7 @@ cv2 ,datetime ,numpy, argparse
 
 ============================================================================
 # Left
-![Left](https://github.com/tairhadad/Panorama/blob/master/2/left.jpg?raw=true "Left"){:height="50%" width="50%"}
+![Left](https://github.com/tairhadad/Panorama/blob/master/2/left.jpg?raw=true "Left" =250x250)
 
 # Right
 ![Right](https://github.com/tairhadad/Panorama/blob/master/2/right.jpg?raw=true "Right"){:height="50%" width="50%"}
