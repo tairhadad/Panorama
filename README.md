@@ -6,7 +6,7 @@ cv2 ,datetime ,numpy, argparse
 
 ============================================================================
 
-![alt text](https://github.com/tairhadad/Panorama/blob/master/2/left.jpg?raw=true)
+![Left](https://github.com/tairhadad/Panorama/blob/master/2/left.jpg?raw=true)
 
 
 ============================================================================
