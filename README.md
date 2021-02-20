@@ -9,16 +9,11 @@ cv2 ,datetime ,numpy, argparse
 <img src="https://github.com/tairhadad/Panorama/blob/master/2/left.jpg?raw=true" width="25%" height="25%">
 
 
-![Left](https://github.com/tairhadad/Panorama/blob/master/2/left.jpg?raw=true "Left" )
-
-
 # Right
-![Right](https://github.com/tairhadad/Panorama/blob/master/2/right.jpg?raw=true "Right")
-
+<img src="https://github.com/tairhadad/Panorama/blob/master/2/right.jpg?raw=true" width="25%" height="25%">
 
 # Output
-![Output](https://github.com/tairhadad/Panorama/blob/master/2/output.jpg?raw=true "Output")
-
+<img src="(https://github.com/tairhadad/Panorama/blob/master/2/output.jpg?raw=true" width="25%" height="25%">
 
 
 ============================================================================
